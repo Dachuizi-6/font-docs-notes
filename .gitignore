@@ -1,0 +1,17 @@
+#vuepress temp file
+.temp
+
+*.log
+.cache
+.DS_Store
+.idea
+.temp
+build
+dist
+**/node_modules/
+.gitkeep
+converage
+.history
+.idea
+*.zip
+package-lock.json
